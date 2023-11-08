@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "react-icons": "^4.11.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.8.3"
+  }
+}
